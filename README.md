@@ -1,6 +1,8 @@
 # 2018learning
 hands on exercise
 
+https://zhuanlan.zhihu.com/p/21547911     DQN
+
 # reinforcement learning
 http://incompleteideas.net/book/bookdraft2018jan1.pdf
 
